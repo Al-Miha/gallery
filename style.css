@@ -97,6 +97,9 @@
     font-size: 35px;
     line-height: 1.2em;
   }
+  .test-para-1 h3 {
+    margin-bottom: 2rem !important;
+  }
 }
 
 .test-para-2 {
