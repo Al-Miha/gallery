@@ -1,32 +1,31 @@
 .slide-item-1 {
-  background: url("/img-slider/analysis-1000px-min.webp") no-repeat center
-    center;
+  background: url("img-slider/analysis-1000px-min.webp") no-repeat center center;
   background-size: cover;
   height: 100vh !important;
 }
 
 .slide-item-2 {
-  background: url("/img-slider/hospitality-min.webp") no-repeat center center;
+  background: url("img-slider/hospitality-min.webp") no-repeat center center;
   background-size: cover;
   height: 100vh !important;
 }
 
 .slide-item-3 {
-  background: url("/img-slider/interview-1000px-min.webp") no-repeat center
+  background: url("img-slider/interview-1000px-min.webp") no-repeat center
     center;
   background-size: cover;
   height: 100vh !important;
 }
 
 .slide-item-4 {
-  background: url("/img-slider/agreement-1000px-min.webp") no-repeat center
+  background: url("img-slider/agreement-1000px-min.webp") no-repeat center
     center;
   background-size: cover;
   height: 100vh !important;
 }
 
 .slide-item-5 {
-  background: url("/img-slider/accounting-min.webp") no-repeat center center;
+  background: url("img-slider/accounting-min.webp") no-repeat center center;
   background-size: cover;
   height: 100vh !important;
 }
