@@ -90,6 +90,15 @@
 .test-para-1 h3 {
   font-weight: 700 !important;
 }
+
+@media screen and (max-width: 767px) {
+  .test-para-1 h2,
+  .test-para-1 h3 {
+    font-size: 35px;
+    line-height: 1.2em;
+  }
+}
+
 .test-para-2 {
   visibility: hidden;
   position: absolute;
@@ -143,15 +152,9 @@
   animation-delay: 16s;
 }
 
-.text-title-up {
-  letter-spacing: 1.25px;
-  animation-name: animTextUp;
-  animation-duration: 1.5s;
-  z-index: 100;
-}
 @keyframes animTextUp {
   0% {
-    transform: translateY(150px);
+    transform: translateY(350px);
     visibility: hidden;
     opacity: 0;
   }
